@@ -4,14 +4,15 @@
 
 🇨🇳 China Hangzhou ・ 🔧 DevOps
 
-✏️ Blog: [https://blog.incubator4.com](https://blog.incubator4.com)  
+✏️ How to reach me:  Blog: [https://blog.incubator4.com](https://blog.incubator4.com)  
+🔭 I'm currently working on cloud native.  
+👯 I am a contributor of Apache APISIX, Hashicorp.
 <!--
 **Incubator4th/Incubator4th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-I'm currently working on cloud native.
-I am a contributor of Apache APISIX, Hashicorp.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
