@@ -6,8 +6,9 @@
 
 ✏️ How to reach me:  Blog: [https://blog.incubator4.com](https://blog.incubator4.com)  
 🔭 I'm currently working on cloud native.  
-👯 I am a contributor of Apache APISIX, [Hashicorp Core Contributor](https://www.credly.com/badges/2beefac5-0955-4af4-b9ec-dd2fa4a32a2a/public_url).
+👯 I am a contributor of Apache APISIX, Hashicorp.
 
+[!Hashicorp Core Contributor](https://images.credly.com/size/680x680/images/344d6dac-dfce-49b2-b07b-c643c4809ecb/image.png)]((https://www.credly.com/badges/2beefac5-0955-4af4-b9ec-dd2fa4a32a2a/public_url)
 
 
 <!--
