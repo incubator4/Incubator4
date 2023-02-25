@@ -6,7 +6,10 @@
 
 ✏️ How to reach me:  Blog: [https://blog.incubator4.com](https://blog.incubator4.com)  
 🔭 I'm currently working on cloud native.  
-👯 I am a contributor of Apache APISIX, Hashicorp.
+👯 I am a contributor of Apache APISIX, [Hashicorp Core Contributor](https://www.credly.com/badges/2beefac5-0955-4af4-b9ec-dd2fa4a32a2a/public_url).
+
+
+
 <!--
 **Incubator4th/Incubator4th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
