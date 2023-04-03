@@ -6,7 +6,7 @@
 
 ✏️ How to reach me:  Blog: [https://blog.incubator4.com](https://blog.incubator4.com)  
 🔭 I'm currently working at [RSS3](https://rss3.io).  
-👯 I'm a contributor of Apache APISIX, Hashicorp.
+👯 I'm a contributor of Apache APISIX, Hashicorp.  
 📫 I'm cloud-native developer.
 <!--
 **Incubator4th/Incubator4th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
